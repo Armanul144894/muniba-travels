@@ -234,7 +234,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      padding: 8px 22px !important;
 }
  .travel-primary-btn-2 {
-     background: #f17b37;
+     background: #f15b5c;
 }
 
 /* -------- Pre Loader -------- */
@@ -298,7 +298,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      font-weight: 500;
 }
  .header-top-right .book-btn:hover {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .header-bottom-area {
      transition: all ease-in-out 0.5s;
@@ -429,7 +429,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      font-size: 20px;
 }
  .slider-area .tparrows:hover {
-     background: #f17b37 !important;
+     background: #f15b5c !important;
 }
  .slider-area .slider-overlay {
      height: 100%;
@@ -608,7 +608,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      transition: all ease-in-out 0.3s;
 }
  .tabbased-search-area .tab-content .hotels-form .searc-btn-7 button:hover, .tabbased-search-area .tab-content .flights-form .searc-btn-7 button:hover {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .tabbased-search-area .tab-content .flights-form input {
      -moz-user-select: none;
@@ -815,7 +815,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
  .popular-packages .single-package:hover .ct-action a {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .popular-packages .single-package:hover .package-content h3 {
      color: #f15b5c;
@@ -840,7 +840,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      font-weight: 600;
 }
  .count-down-bg .count-down-titile h3 span.color-one {
-     color: #f17b37;
+     color: #f15b5c;
 }
  .count-down-bg .count-down-titile h3 span.color-two {
      color: #f15b5c;
@@ -1262,7 +1262,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
 }
  .subscribe-area .subscribe-form .search-btn button {
      border: medium none;
-     background: #f17b37;
+     background: #f15b5c;
      font-size: 15px;
      padding: 17.7px;
      width: 100%;
@@ -1468,7 +1468,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      position: absolute;
 }
  .footer-area .single-footer .footer-contact-form form .footer-form-element button:hover {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .footer-area .single-footer .footer-social-media .social-footer-title {
      font-weight: 600;
@@ -1543,7 +1543,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      display: none;
 }
  .to-top a {
-     background: #f17b37 none repeat scroll 0 0;
+     background: #f15b5c none repeat scroll 0 0;
      border-radius: 4px;
      color: #ffffff;
      font-size: 35px;
@@ -1609,7 +1609,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      font-size: 20px;
 }
  .slider-area-2 .tparrows:hover, .slider-area-3 .tparrows:hover {
-     background: #f17b37 !important;
+     background: #f15b5c !important;
 }
  .slider-area-2 span, .slider-area-3 span {
      font-size: 25px !important;
@@ -1682,7 +1682,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      margin-top: 50px;
 }
  .tabbased-search-area-2 .tab-content-2 .search-btn-2 button:hover {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .tabbased-search-area-2 .tab-content-2 .hotel-input-4-23 {
      width: 25% !important;
@@ -1907,7 +1907,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      bottom: -1px;
 }
  .single-package-carasoul:hover .package-location span {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .owl-nav div {
      background: #f15b5c none repeat scroll 0 0;
@@ -1926,7 +1926,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      border-radius: 5px;
 }
  .owl-nav div:hover {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .owl-nav div.owl-next {
      left: auto;
@@ -2142,7 +2142,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
 }
  .offer-package .single-offer:hover .offer-btn a {
-     background: #f17b37;
+     background: #f15b5c;
 }
 /*===================================================== 24.home version 2 blog section css goes here =======================================================*/
  .section-blog-bg {
@@ -2313,7 +2313,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      transition: all ease-in-out 0.5s;
 }
  .grid-3 figure figcaption a .fa.fa-pencil:hover {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .grid-3 figure:hover::before, .grid-3 figure:hover::after {
      opacity: 1;
@@ -3045,7 +3045,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      padding-bottom: 30px;
 }
  .discount-package-4 .discount-package-4-contents .discount-package-4-title h2 span {
-     color: #f17b37;
+     color: #f15b5c;
 }
  .discount-package-4 .discount-package-4-contents .discount-package-4-title p {
      font-size: 18px;
@@ -3243,7 +3243,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      transition: all ease-in-out 0.5s;
 }
  .footer-area-2 .single-footer .footer-send:hover {
-     background: #f17b37;
+     background: #f15b5c;
      color: #ffffff;
 }
  .footer-area-2 .single-footer .footer-contact-form form .footer-form-element li input {
@@ -3251,7 +3251,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
 }
 /*===================================================== 45.Home version 5 slider section start here =======================================================*/
  .slider-area-4 span {
-     color: #f17b37 !important;
+     color: #f15b5c !important;
      font-size: 60px !important;
      font-weight: 600 !important;
      text-transform: uppercase !important;
@@ -3319,7 +3319,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      padding-bottom: 0px;
 }
  .discount-package-5 .discount-package-4-title h2 span, .discount-package-5 .discount-package-4-title h3 span {
-     color: #f17b37;
+     color: #f15b5c;
 }
  .discount-package-5 .discount-package-4-title > p {
      font-size: 18px;
@@ -3327,7 +3327,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      padding: 30px 0;
 }
  .discount-package-5 .discount-package-4-title .sticker {
-     background: #f17b37 none repeat scroll 0 0;
+     background: #f15b5c none repeat scroll 0 0;
      border-radius: 100%;
      height: 80px;
      position: absolute;
@@ -3402,7 +3402,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
  .top-destination-area-5 .single-destionation-5:hover .destination-5-description a {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .top-destination-area-5 .single-destionation-5:hover .destination-5-image img {
      transform: scale(1.1);
@@ -3514,7 +3514,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      margin: 0;
 }
  .hotels-area-2 .single-hotels-2 .hotel-description p span {
-     color: #f17b37;
+     color: #f15b5c;
      font-weight: 600;
 }
  .hotels-area-2 .single-hotels-2 .hotel-description .hotel-book-btn {
@@ -3977,10 +3977,10 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      margin-left: 40px;
 }
  .main-timeline .timeline:hover .timeline-icon {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .main-timeline .timeline:hover .timeline-content h4 {
-     color: #f17b37;
+     color: #f15b5c;
 }
 /*===================================================== 55.contact section start here =======================================================*/
  #googleMap {
@@ -4033,7 +4033,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      font-weight: 500;
 }
  .contact-form .form-group .button:hover {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .contact-form .form-group .button i {
      position: relative;
@@ -4132,7 +4132,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      width: 10%;
      height: 2px;
      content: "";
-     background: #f17b37;
+     background: #f15b5c;
      transition: all ease-in-out 0.3s;
 }
  .single .blog-comments .single-comments {
@@ -4223,7 +4223,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      width: 50%;
      height: 2px;
      content: "";
-     background: #f17b37;
+     background: #f15b5c;
 }
  .single .comment-respond label {
      font-size: 15px;
@@ -4285,7 +4285,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      font-weight: 400;
 }
  .single .blog-sidebar .form .search input[type="submit"]:hover {
-     background: #f17b37;
+     background: #f15b5c;
 }
  .single .blog-sidebar .single-sidebar {
      background: #fff;
@@ -4309,7 +4309,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      transition: all ease-in-out 0.5s;
 }
  .single .blog-sidebar .single-sidebar ul li a:hover {
-     color: #f17b37;
+     color: #f15b5c;
      transform: translateX(5px);
 }
  .single .blog-sidebar .single-sidebar ul li a i {
@@ -4348,7 +4348,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
 }
  .single .blog-sidebar .tags ul li a:hover {
      color: #ffffff;
-     background: #f17b37;
+     background: #f15b5c;
 }
 /*# sourceMappingURL=style.css.map */
 
