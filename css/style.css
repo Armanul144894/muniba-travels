@@ -137,7 +137,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
  p {
      margin: 0 0 15px;
      font-size: 15px;
-     color: #727272;
+     color: #252525;
      font-weight: 400;
      font-family: 'Poppins', sans-serif;
 }
@@ -1883,15 +1883,15 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      color: #727272;
 }
  .single-package-carasoul .package-long-btn {
-     background: #f15b5c none repeat scroll 0 0;
+     background: #f15b5bd8 none repeat scroll 0 0;
      display: block;
      width: 100%;
      text-align: center;
      padding: 15px 0;
      position: absolute;
-     bottom: -63px;
-     opacity: 0;
-     visibility: hidden;
+     bottom: 20px;
+     opacity: 1;
+     /* visibility: hidden; */
      transition: all ease-in-out 0.3s;
      right: 0;
      font-size: 17px;
@@ -4522,6 +4522,46 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
     margin-left: -32px;
 }
 
+.package-details {
+     margin: 10px 0;
+ }
+ 
+ .tour-size {
+     display: flex;
+     justify-content: space-between;
+     margin-bottom: 15px;
+ }
+ 
+ .tour-stat {
+     text-align: center;
+ }
+ 
+ .tour-stat .label {
+     display: block;
+     font-size: 14px;
+     color: #353535;
+     margin-bottom: 3px;
+ }
+ 
+ .tour-stat .value {
+     display: block;
+     font-weight: bold;
+     font-size: 14px;
+ }
+ 
+ .value.booked {
+     color: #ff5722;
+ }
+ 
+ .value.available {
+     color: #4CAF50;
+ }
+ 
+ .price {
+     color: #2196F3;
+     font-weight: bold;
+     font-size: 18px;
+ }
 
 .row{
      margin: 0 !important;
